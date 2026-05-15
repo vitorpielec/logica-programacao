@@ -8,7 +8,7 @@ Aqui eu documento exercícios e pequenos desafios para desenvolver meus fundamen
 
 ## 🎯 Objetivo
 
-Praticar e fortalecer conceitos básicos de programação, como:
+Praticar e fortalecer conceitos básicos de programação como:
 - variáveis e tipos de dados
 - condições (if / else)
 - loops (for / while)
@@ -17,16 +17,14 @@ Praticar e fortalecer conceitos básicos de programação, como:
 
 ---
 
-## 📁 Organização
+## 📁 Estrutura
 
-O repositório contém:
-
-- `exercises/` → exercícios isolados para praticar conceitos específicos  
-- `mini-projects/` → pequenos projetos que combinam mais de um conceito
+- `exercises/` → exercícios isolados para prática de conceitos específicos  
+- `mini-projects/` → pequenos projetos que combinam múltiplos conceitos  
 
 ---
 
-## 🧪 Exemplos de exercícios
+## 🧪 Exemplos
 
 - Par ou ímpar  
 - Tabuada  
@@ -38,21 +36,17 @@ O repositório contém:
 
 ## 📌 Observação
 
-Este repositório não contém projetos completos, mas sim exercícios e práticas constantes voltadas ao aprendizado.
+Este repositório contém exercícios e práticas constantes, não projetos completos.
 
 ---
 
-## 🚀 Evolução
+# 🇺🇸 English Version
 
-O conteúdo será atualizado conforme meu progresso na programação, agradeço!
-
----
-
-# Programming Logic 🧠
+## Programming Logic 🧠
 
 This repository is dedicated to my studies and practice of programming logic.
 
-Here I document exercises and small challenges to strengthen my fundamental programming skills.
+Here I document exercises and small challenges to improve my fundamental programming skills.
 
 ---
 
@@ -69,10 +63,8 @@ To practice and improve basic programming concepts such as:
 
 ## 📁 Structure
 
-The repository contains:
-
-- `exercises/` → isolated exercises to practice specific concepts  
-- `mini-projects/` → small projects that combine multiple concepts  
+- exercises/ → isolated exercises to practice specific concepts  
+- mini-projects/ → small projects combining multiple concepts  
 
 ---
 
@@ -88,10 +80,4 @@ The repository contains:
 
 ## 📌 Note
 
-This repository does not contain full-scale projects, but rather exercises and continuous practice focused on learning.
-
----
-
-## 🚀 Progress
-
-This repository will be updated as I continue improving my programming skills, thanks for read!.
+This repository contains practice exercises, not full-scale projects.
