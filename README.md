@@ -19,8 +19,8 @@ Praticar e fortalecer conceitos básicos de programação como:
 
 ## 📁 Estrutura
 
-- `exercises/` -> exercícios isolados para prática de conceitos específicos  
-- `mini-projects/` -> pequenos projetos que combinam múltiplos conceitos  
+- `exercises/` - > exercícios isolados para prática de conceitos específicos  
+- `mini-projects/` - > pequenos projetos que combinam múltiplos conceitos  
 
 ---
 
