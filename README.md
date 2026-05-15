@@ -44,4 +44,54 @@ Este repositório não contém projetos completos, mas sim exercícios e prátic
 
 ## 🚀 Evolução
 
-O conteúdo será atualizado conforme meu progresso na programação, valeu!
+O conteúdo será atualizado conforme meu progresso na programação, agradeço!
+
+---
+
+# Programming Logic 🧠
+
+This repository is dedicated to my studies and practice of programming logic.
+
+Here I document exercises and small challenges to strengthen my fundamental programming skills.
+
+---
+
+## 🎯 Objective
+
+To practice and improve basic programming concepts such as:
+- variables and data types  
+- conditionals (if / else)  
+- loops (for / while)  
+- functions  
+- problem solving  
+
+---
+
+## 📁 Structure
+
+The repository contains:
+
+- `exercises/` → isolated exercises to practice specific concepts  
+- `mini-projects/` → small projects that combine multiple concepts  
+
+---
+
+## 🧪 Examples
+
+- Even or odd number  
+- Multiplication table  
+- Unit converter  
+- Password validation  
+- Guessing game  
+
+---
+
+## 📌 Note
+
+This repository does not contain full-scale projects, but rather exercises and continuous practice focused on learning.
+
+---
+
+## 🚀 Progress
+
+This repository will be updated as I continue improving my programming skills, thanks for read!.
